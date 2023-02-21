@@ -1,3 +1,2 @@
 # hello-world
-###try again
-##this is going to be fine for me.
+hello this is my first time using this type of code.
