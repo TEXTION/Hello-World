@@ -1,2 +1,2 @@
 # hello-world
-try again
+hello this is my first time using this type of code.
